@@ -58,7 +58,7 @@ project-root/
 ## ⚙️ Instalación y Configuración
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/web-automation-bot.git
+git clone https://github.com/ClauBaqueroRico/Bot_UMR.git
 cd web-automation-bot
 ```
 ### 2. Instalar Dependencias
